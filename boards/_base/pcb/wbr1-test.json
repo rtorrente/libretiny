@@ -1,0 +1,39 @@
+{
+	"pcb": {
+		"scale": 10,
+		"test_pads": {
+			"TA_0": "wbr1.back.a_0.anchor",
+			"TA_1": "wbr1.back.a_1.anchor"
+		},
+		"back": [
+			{
+				"id": "a_0",
+				"name": "label_line_up",
+				"pos": "12.2,16.4",
+				"vars": {
+					"DIR": "left",
+					"W": 0.7,
+					"H": 0
+				}
+			},
+			{
+				"name": "test_pad_1mm",
+				"pos": "13,3,16,3"
+			},
+			{
+				"id": "a_1",
+				"name": "label_line_up",
+				"pos": "11.5,18.9",
+				"vars": {
+					"DIR": "left",
+					"W": 0,
+					"H": 0
+				}
+			},
+			{
+				"name": "test_pad_1mm",
+				"pos": "12.3,18.8"
+			}
+		]
+	}
+}
